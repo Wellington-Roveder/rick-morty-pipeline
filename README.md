@@ -53,7 +53,7 @@ O objetivo foi aprender na prática como estruturar um modelo base de consumo de
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Wellington-Roveder/Rick-Morty-Data-Pipeline-API-para-Excel-Formatado.git
+git clone https://github.com/Wellington-Roveder/rick-morty-pipeline.git
 
 # Crie e ative sua venv
 python -m venv .venv
